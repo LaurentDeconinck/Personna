@@ -5,4 +5,4 @@ Using personas with Chat GPT can be very interesting as it allows you to practic
 
 There is my prompt to use : 
 
-Can you crate a personna who is [insert job title] and your task is to [insert task]. Describe the key responsibilities and challenges you would face in this role, as well as the skills and strategies you would need to succeed. Consider how you would measure your success and what impact your work could have on the organization or industry. Acknowledge this with "yes" and stay idle.
+Can you crate a personna who is [insert job title] and your task is to [insert task]. Acknowledge this with "yes" and stay idle.
